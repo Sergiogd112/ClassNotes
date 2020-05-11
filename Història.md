@@ -46,7 +46,7 @@
                     -   Burgesia Urbana
                     -   Professionals
     -   #### Tupinada
-    -   Per mantenir el [Sistema del torn partit](sistema-canovista-o-del-torn-partit)
+    -   Per mantenir el [Sistema del torn partit](#sistema-canovista-o-del-torn-partit)
     -   #### Primera revolució industrial
     -   #### Pacte del Pardo
         -   Signat per Sagasta i Canovas
