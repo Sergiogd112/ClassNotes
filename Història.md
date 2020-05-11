@@ -5,7 +5,7 @@
 - **1875-1931**
 - ### Primera etapa:
 
-    - ##El sistema del torn partit
+    - ## El sistema del torn partit
     - 1875-1898
     - #### Regat Alfons
         - 1875-1885
