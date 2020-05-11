@@ -8,9 +8,14 @@
     -   1875-1898
     -   #### Regat Alfons
         -   1875-1885
-        -   Va respectar les Corts i les polítiques d'alternança
-        -   1879 es casa amb Maria Cristina d'Hasburg
-        -   1884 contrau tuberculosis desprès de visitar un hospital
+        -   Va respectar
+            -   les Corts
+            -   les polítiques d'alternança
+        -   1879 es casa
+            -   Mª Cristina d'Hasburg
+        -   1884 visita un hospital
+            -   contrau tuberculosis
+            -   mor
     -   #### Sistema canovista o del torn partit
         -   Partits dins del sistema:
             -   ##### Liberal-conservador
@@ -37,7 +42,11 @@
                     -   Demòcrates
                 -   Representen:
                     -   Mitjans i petits empresaris
+                    -   Classes mitjanes
+                    -   Burgesia Urbana
+                    -   Professionals
     -   #### Tupinada
+    -   Per mantenir el [Sistema del torn partit](#1-Sistema-canovista-o-del-torn-partit)
     -   #### Primera revolució industrial
     -   #### Pacte del Pardo
         -   Signat per Sagasta i Canovas
@@ -46,7 +55,9 @@
         -   1885-1902
     -   #### Sorgiment nacionalismes
     -   #### Segona revolució industrial
-    -   #### Moviments obrers (internacionalisme i anarquisme)
+    -   #### Moviments obrers
+    -   internacionalisme
+    -   anarquisme
     -   #### Desastre de Cuba
 
 
