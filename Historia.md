@@ -17,40 +17,46 @@
             -   contrau tuberculosis
             -   mor
     -   #### Sistema canovista o del torn partit
-        -   Partits dins del sistema:
-            -   ##### Liberal-conservador
-                -   Liderat per:
-                    -   Cánovas
-                    -   Silvella
-                -   Formats per:
-                    -   Moderats
-                    -   Antiga Unión Liberal
-                    -   Dissidents del Carlisme
-                -   Representen:
-                    -   Grans propietaris
-                    -   Alta burgesia
-                    -   Classes altes
-            -   ##### Liberal-fusionista
-                -   Liderats per:
-                    -   Sagasta
-                    -   Montero Rios
-                    -   Moret
-                -   Formats per:
-                    -   Unionistes d'esquerra
-                    -   Amadeuistes
-                    -   Antics progressistes
-                    -   Demòcrates
-                -   Representen:
-                    -   Mitjans i petits empresaris
-                    -   Classes mitjanes
-                    -   Burgesia Urbana
-                    -   Professionals
+        -   Partits
+            -   dins del sistema:
+                -   ##### Liberal-conservador
+                    -   Liderat per:
+                        -   Cánovas
+                        -   Silvella
+                    -   Formats per:
+                        -   Moderats
+                        -   Antiga Unión Liberal
+                        -   Dissidents del Carlisme
+                    -   Representen:
+                        -   Grans propietaris
+                        -   Alta burgesia
+                        -   Classes altes
+                -   ##### Liberal-fusionista
+                    -   Liderats per:
+                        -   Sagasta
+                        -   Montero Rios
+                        -   Moret
+                    -   Formats per:
+                        -   Unionistes d'esquerra
+                        -   Amadeuistes
+                        -   Antics progressistes
+                        -   Demòcrates
+                    -   Representen:
+                        -   Mitjans i petits empresaris
+                        -   Classes mitjanes
+                        -   Burgesia Urbana
+                        -   Professionals
+            -   Fora del sistema:
     -   #### Tupinada
         -   Per mantenir el [Sistema del torn partit](#sistema-canovista-o-del-torn-partit)
         -   Frau electoral
             -   Cacics
             -   Vot dels morts
     -   #### Primera revolució industrial
+        -   En q consisteix
+        -   Elements q van afavorir o provocar
+        -   La industria téxtil
+        -   
     -   #### Pacte del Pardo
         -   Signat per Sagasta i Canovas
         -   Regencia Maria Cristina
