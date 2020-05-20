@@ -64,6 +64,36 @@
 
 #### Ataques smurf
 
+-   standard scenario
+
+    -   host A sends an ICMP Echo (ping) request to host B,
+    -   triggering an automatic response
+    -   time it takes for a response to arrive is used as a measure of the virtual distance between the two hosts.
+
+-   In an IP broadcast network
+
+    -   an ping request is sent to every host
+    -   prompting a response from each of the recipients
+    -   Smurf attacks, perpetrators take advantage to amplify their attack traffic
+
+-   A Smurf attack scenario can be broken down as follows:
+
+    -   Smurf malware is used to generate a fake Echo request containing a spoofed source IP, which is actually the target server address.
+    -   The request is sent to an intermediate IP broadcast network.
+    -   The request is transmitted to all of the network hosts on the network.
+    -   Each host sends an ICMP response to the spoofed source address.
+    -   With enough ICMP responses forwarded, the target server is brought down.
+        The amplification factor of the Smurf attack correlates to the number of the hosts on the intermediate network. For example, an IP broadcast network with 500 hosts will produce 500 responses for each fake Echo requests. Typically, each of the relies is of the same size as the original ping request.
+
+It should be noted that, during the attack, the service on the intermediate network is likely to be degraded.
+
+In addition to showing good internet citizenship, this should incentivize operators to prevent their networks from being unwitting Smurf attack participants.
+
+-   To accomplish this you can:
+    -   Disable IP-directed broadcasts on your router.
+    -   Reconfigure your operating system to disallow ICMP responses to IP broadcast requests.
+    -   Reconfigure the perimeter firewall to disallow pings originating from outside your network.
+
 #### Ataque/Vulnerabilidad de dia zero
 
 #### BYOD
