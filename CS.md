@@ -72,7 +72,7 @@
 
 #### Toolkits
 
-#### Vulneravilidad
+#### Vulnerabilidad
 
 #### Zombis/computadores zombies
 
