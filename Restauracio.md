@@ -1,10 +1,10 @@
-## La Restauració
+# La Restauració
 
 -   **1875-1931**
--   ### Primera etapa:
+-   ## Primera etapa:
 
     -   1875-1898
-    -   #### Regat Alfons
+    -   ### Regat Alfons
         -   1875-1885
         -   Va respectar
             -   les Corts
@@ -14,14 +14,23 @@
         -   1884 visita un hospital
             -   contrau tuberculosis
             -   mor
-    -   #### Constitució 1876
-            -
-    -   #### Sistema canovista o del torn partit
+    -   ### Constitució 1876
+        -   Sobirania compartida
+        -   No estableix sufragi
+            -   1878 llei=> sufragi censatari
+            -   1890 s'aprova sufragi universal masc
+        -   Caracter conservador
+        -   bicameral
+        -   confesional
+        -   drets civils
+        -   estat centralitzat
+        -   no es reconeix la divisió de poders
+    -   ### Sistema canovista o del torn partit
 
         -   Partits
 
             -   dins del sistema:
-                -   ##### Liberal-conservador
+                -   #### Liberal-conservador
                     -   Liderat per:
                         -   Cánovas
                         -   Silvella
@@ -33,7 +42,7 @@
                         -   Grans propietaris
                         -   Alta burgesia
                         -   Classes altes
-                -   ##### Liberal-fusionista
+                -   #### Liberal-fusionista
                     -   Liderats per:
                         -   Sagasta
                         -   Montero Rios
@@ -92,14 +101,14 @@
                     -   Representen:
                         -   Classes obrera
 
-    -   #### Tupinada
+    -   ### Tupinada
         -   Per mantenir el [Sistema del torn partit](#sistema-canovista-o-del-torn-partit)
         -   Frau electoral
             -   Cacics
             -   Vot dels morts
-    -   #### Primera revolució industrial
+    -   ### Primera revolució industrial
 
-        -   ##### En q consisteix
+        -   #### En q consisteix
 
             -   Transformacions econòmiques:
                 -   Subsistencia => Capitalista
@@ -110,7 +119,7 @@
             -   Transformacions polítiques:
                 -   Règim absolutista => Règim Liberal
 
-        -   ##### Elements q van afavorir o provocar
+        -   #### Elements q van afavorir o provocar
 
             -   \++ producció agraria
             -   Mà d'obra
@@ -120,7 +129,7 @@
             -   Mentalitat empresarial
             -   Marc polític favorable
 
-        -   ##### Agricultura
+        -   #### Agricultura
             -   Avençós =>
                 -   Descens agricultors
                     -   \++ obrers
@@ -140,8 +149,16 @@
                         -   \++ minifundis i latifundis
                         -   poc interes modernitzador
                 -   Crisis filoxera
+                    -   Prové de França
+                    -   Greu crisis Agraria
+                        -   filoxera
+                        -   importació blat
+                    -   Es planten ceps americanes
+                    -   Afecta contractes rabassa morta
+                        -   conflicte rabasaires
+                            -   1896 Contractes arrendament i parceria
                 -   No s'acabara de portar a terme fins als 1960
-        -   ##### La industria téxtil
+        -   #### La industria téxtil
 
             -   Segle XVII
                 -   industria manufacturera d'indianes
@@ -170,7 +187,7 @@
                     -   \- cabal = - producció
                     -   \++ cost de transport
 
-        -   ##### Industria siderurgica
+        -   #### Industria siderurgica
 
             -   1r periode: Andalusia
                 -   1826 => altos hornos heredeia
@@ -187,7 +204,7 @@
                 -   1882 SA Altos Hornos i Fabrica de Fe Acero Bilbao
                 -   1885 Instal·la el primer convertidor de Bessemes
 
-        -   ##### El ferrocarril
+        -   #### El ferrocarril
             -   Iniciat a 1/2ns Segle XIX
             -   1848 Barcelona - Mataró
             -   Primera etapa: expansió
@@ -199,10 +216,10 @@
                     -   MZA
                     -   Companya del Nord
 
-    -   #### Pacte del Pardo
+    -   ### Pacte del Pardo
         -   Signat per Sagasta i Canovas
         -   [Regencia Maria Cristina](#regencia-de-maria-cristina)
-    -   #### Regència de Maria Cristina
+    -   ### Regència de Maria Cristina
         -   1885-1902
         -   Govern Liberal
         -   Sagasta incita reformas:
@@ -214,21 +231,71 @@
         -   1886 S'elimina el sistema del Patronat
         -   1889 Nou codi civil
         -   1890 sufragi universal masculi >25
-    -   #### Sorgiment nacionalismes
+    -   ### Sorgiment nacionalismes
         -   català
         -   Basc
         -   Galleg
-    -   #### Segona revolució industrial
-    -   #### Moviments obrers
+    -   ### Segona revolució industrial
+        -   1870 i 1914
+        -   fabricació de peces intercanviables
+        -   la invenció del procés Bessemer per produir acer
+        -   sistema Solvay de producció del carbonat de sodi
+    -   ### Moviments obrers
         -   internacionalisme
         -   anarquisme
-    -   #### Desastre de Cuba
+    -   ### Desastre de Cuba
 
--   ### Segona etapa(1902-1931)
+        -   1873 1ª Republica
+            -   Cuba intenta aconseguir autogovern
+        -   1876 pau Zanjón ++ llibertat - en política
+        -   1893 Projecte de Llei sobre el govern i l'administració civil de les illes de:
+            -   Cuba
+            -   Puerto Rico
+        -   2ª Guerra per l'independencia
+            -   1895
+                -   Manifest de Montecristi
+                -   Grito de Baire
+            -   Creació Trochas=> aillar rebels
+                -   Concentració població
+            -   1898 ecplosió maine
+            -   1898 Derrota Espanya
+                -   Perdua esquadra Cervera
+                -   Rendició Santiago Cuba
+                -   Ocupació Puerto Rico per EEUU
+
+-   ## Segona etapa(1902-1931)
     -   **Crisi de la Restauració**
     -   Inici del Regeneracionisme (1898-1902)
+        -   1899 Mª Cristina dona suport a Silvela
+        -   Regenera el partit
+            -   Nous membres
+                -   Dato
+                -   Polevieja
+                -   Duran i Bas
+        -   Proposa:
+            -   Descentralització
+            -   impost sobre bens 1ª necessitat
+            -   impostos per fer front cost guerra
+                -   provoca Tancament caixes al setembre 1899
     -   Intents de Regeneracionisme en els partits dinàstics:
         -   Maura
+            -   Govern Curt 1903-04
+                -   1903 Presiona per evitar falsejament
+                -   Silvela s'en va=>President
+                -   vol socialitzar la política
+                    -   crida a la "sana mayoria silenciosa"
+                    -   integrar masses neutres a la politica
+                        -   eliminar poder Cacics
+                        -   Evitar aixecament popular
+            -   Relació Alfons XII
+                -   Tensa
+                -   1904 Maura escolleix com a Cap de l'estat major a Polavieja en contra d'Alfons XIII
+            -   Govern Llarg 1907-09
+                -   sufragi obligatori
+                -   Aprova llei electoral 1907
+                    -   
+                    -   
+            -   Govern concentració 1918-22
         -   Canalejas
     -   Els moviments obrers
     -   Economia

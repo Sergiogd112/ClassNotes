@@ -142,6 +142,14 @@
                         -   \++ minifundis i latifundis
                         -   poc interes modernitzador
                 -   Crisis filoxera
+                    -   Prové de França
+                    -   Greu crisis Agraria
+                        -   filoxera
+                        -   importació blat
+                    -   Es planten ceps americanes
+                    -   Afecta contractes rabassa morta
+                        -   conflicte rabasaires
+                            -   1896 Contractes arrendament i parceria
                 -   No s'acabara de portar a terme fins als 1960
         -   ##### La industria téxtil
 
@@ -221,14 +229,47 @@
         -   Basc
         -   Galleg
     -   #### Segona revolució industrial
+        -   1870 i 1914
+        -   fabricació de peces intercanviables
+        -   la invenció del procés Bessemer per produir acer
+        -   sistema Solvay de producció del carbonat de sodi
     -   #### Moviments obrers
         -   internacionalisme
         -   anarquisme
     -   #### Desastre de Cuba
 
+        -   1873 1ª Republica
+            -   Cuba intenta aconseguir autogovern
+        -   1876 pau Zanjón ++ llibertat - en política
+        -   1893 Projecte de Llei sobre el govern i l'administració civil de les illes de:
+            -   Cuba
+            -   Puerto Rico
+        -   2ª Guerra per l'independencia
+            -   1895
+                -   Manifest de Montecristi
+                -   Grito de Baire
+            -   Creació Trochas=> aillar rebels
+                -   Concentració població
+            -   1898 ecplosió maine
+            -   1898 Derrota Espanya
+                -   Perdua esquadra Cervera
+                -   Rendició Santiago Cuba
+                -   Ocupació Puerto Rico per EEUU
+
 -   ### Segona etapa(1902-1931)
     -   **Crisi de la Restauració**
     -   Inici del Regeneracionisme (1898-1902)
+        -   1899 Mª Cristina dona suport a Silvela
+        -   Regenera el partit
+            -   Nous membres
+                -   Dato
+                -   Polevieja
+                -   Duran i Bas
+        -   Proposa:
+            -   Descentralització
+            -   impost sobre bens 1ª necessitat
+            -   impostos per fer front cost guerra
+                -   provoca Tancament caixes al setembre 1899
     -   Intents de Regeneracionisme en els partits dinàstics:
         -   Maura
         -   Canalejas
@@ -313,7 +354,7 @@
 
 ## El franquisme (1939-1975)
 
--   ### 1ª etapa (1936-1975)
+-   ### 1ª etapa (1936-1959)
     -   Característiques i triomf del franquisme
     -   El període Blau i la 2ª Guerra Mundial
     -   La repressió i persecució dels vençuts
@@ -337,11 +378,11 @@
     -   El pla d’estabilització econòmica i el creixement econòmic
     -   Els oberturistes i els canvis en el franquisme
     -   Els moviments d’oposició al franquisme:
-    -   socials
-    -   estudiantils
-    -   polítics
-        -   Espanya
-        -   Catalunya
+        -   socials
+        -   estudiantils
+        -   polítics
+            -   Espanya
+            -   Catalunya
     -   La successió de Franco
     -   La Mort de Carrero Blanco
     -   El búnquer
@@ -354,8 +395,10 @@
 -   ### 1ª etapa (1975-1982): La construcció de la democràcia
 
     -   La mort de Franco i les seves conseqüències polítiques
-    -   Adolfo Suárez i la Llei de Reforma
-    -   Les primeres eleccions democràtiques i la Constitució espanyola
+    -   Adolfo Suárez
+    -   la Llei de Reforma
+    -   Les primeres eleccions democràtiques
+    -   la Constitució espanyola
     -   El sistema de les autonomies i l’Estatut de Núria
     -   La consolidació dels partits polítics democràtics: els pactes de la Moncloa
     -   El cop d’estat del 23 de febrer
