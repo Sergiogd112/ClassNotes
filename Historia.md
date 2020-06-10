@@ -17,6 +17,16 @@
             -   contrau tuberculosis
             -   mor
     -   #### Constitució 1876
+        -   Sobirania compartida
+        -   No estableix sufragi
+            -   1878 llei=> sufragi censatari
+            -   1890 s'aprova sufragi universal masc
+        -   Caracter conservador
+        -   bicameral
+        -   confesional
+        -   drets civils
+        -   estat centralitzat
+        -   no es reconeix la divisió de poders
     -   #### Sistema canovista o del torn partit
 
         -   Partits
@@ -271,6 +281,22 @@
                 -   provoca Tancament caixes al setembre 1899
     -   Intents de Regeneracionisme en els partits dinàstics:
         -   Maura
+            -   Govern Curt 1903-04
+                -   1903 Presiona per evitar falsejament
+                -   Silvela s'en va=>President
+                -   vol socialitzar la política
+                    -   crida a la "sana mayoria silenciosa"
+                    -   integrar masses neutres a la politica
+                        -   eliminar poder Cacics
+                        -   Evitar aixecament popular
+            -   Relació Alfons XII
+                -   Tensa
+                -   1904 Maura escolleix com a Cap de l'estat major a Polavieja en contra d'Alfons XIII
+            -   Govern Llarg 1907-09
+                -   sufragi obligatori
+                -   ### Aprova llei electoral 1907
+                    \-
+            -   Govern concentració 1918-22
         -   Canalejas
     -   Els moviments obrers
     -   Economia
