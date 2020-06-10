@@ -292,9 +292,8 @@
                 -   1904 Maura escolleix com a Cap de l'estat major a Polavieja en contra d'Alfons XIII
             -   Govern Llarg 1907-09
                 -   sufragi obligatori
-                -   Aprova llei electoral 1907
-                    -   
-                    -   
+                -   ## Aprova llei electoral 1907
+                    \-
             -   Govern concentració 1918-22
         -   Canalejas
     -   Els moviments obrers
