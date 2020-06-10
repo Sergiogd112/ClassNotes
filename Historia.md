@@ -17,7 +17,6 @@
             -   contrau tuberculosis
             -   mor
     -   #### Constitució 1876
-            -
     -   #### Sistema canovista o del torn partit
 
         -   Partits
