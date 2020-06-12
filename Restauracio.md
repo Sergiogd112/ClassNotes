@@ -341,6 +341,20 @@
                         -   republicanisme
                         -   obrerisme
         -   Nacionalistes
+            -   1901 es crea Lliga Regionalista
+                -   Aspiracions independentistes
+                -   intervenció política estatal
+                    -   modernitzar
+                    -   descentralitzar
+                -   política de Catalunya endins
+            -   Unio republicana
+                -   Supera a la Lliga a les eleccions de
+                    -   1903
+                    -   1905
+            -   Centre Nacionalista Republicà
+                -   Sectors més intransigents de la Lliga
+            -   1910 Nacionalistes Republicans + Centre Nacionalista Republicà
+                -   Unio Federal Nacionalista Republicana
         -   ### Els moviments obrers
 
             -   Socialistes
@@ -385,7 +399,14 @@
 
     -   Economia
 
-    -   Guerres del Marroc
+    -   Fets Cu-Cut
+
+        -   1905 Lliga aconsegueix exit considerable
+        -   festegen amb el Banquet de la Victoria
+        -   25/11/1905 el Cu-Cut publica una vinyeta antimilitarista
+        -   Edicions assaltades pels militars
+        -   Llei Jurisdiccions
+            -   El miitars jutgen ofenses contra ells
 
     -   Solidaritat Obrera
 
@@ -399,9 +420,45 @@
 
     -   ### Setmana Tràgica
 
-    -   Consolidació del catalanisme conservador
+        -   Conferencia Algecires
+            -   Espanya rep part Nord Marroc
+            -   1906 Conferencia
+                -   Espanya ha de pacificar zona Rif
+        -   Guerres del Marroc
+            -   1909 Barranco del Lobo
+                -   Es crida als reservistes
+                -   Inici Setmana Tragica
+        -   fets Setmana Tragica
+            -   25 juliol-2 agost 1909
+            -   Radicalitzacio postures ateriors:
+                -   Antimilitarisme(Fets Cu-cut)
+                -   Anticlericarisme
+                -   obrerisme
+            -   S'inicia una vaga en contra de la crida dels reservistes
+                -   esdeve sublevació urbana
+            -   es
+                -   cremen esglesies
+                -   profanen tombes
+        -   Final conflicte
+            -   \>100 morts
+            -   \>2000 detinguts
+            -   216 consells de guerra a 1700 persone
+                -   5 condemnes de mort
+                    -   Derrera Ferrer i Guardia
+        -   conseqüències
+            -   Caiguda govern Maura
+            -   desengany forces socials
+            -   vinculació sindicalisme apolític
+            -   perdua vots Lliga Regionalista
+            -   enderrocament Solidaritat catalana
+            -   augment suport
+                -   Lerroux
+                -   republacans
+                -   Nova manerade fer proletariat
+                -   s'acusa a la lliga repressió
+                -   Sorgiment UFNR
 
-    -   emergència del catalanisme progressista
+    -   Mancomunitat
 
     -   Efectes de la 1ª Guerra Mundial
 
