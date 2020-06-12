@@ -373,6 +373,15 @@
                     -   Maura(1904)
                     -   Alfons XIII(1905)
                 -   CNT
+                    -   fundat al 1910
+                    -   sindicat anarquista
+                    -   Objectius
+                        -   fort apoliticisme => abstencionisme electoral
+                        -   Negació Estat
+                        -   expropiació==via=>enderrocar capitalisme
+                        -   pressió
+                            -   Vagues
+                            -   Boicots
 
     -   Economia
 
@@ -389,8 +398,6 @@
             -   Favorable Revolució y lluita obrera
 
     -   ### Setmana Tràgica
-
-    -   CNT
 
     -   Consolidació del catalanisme conservador
 
