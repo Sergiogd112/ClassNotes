@@ -493,9 +493,28 @@
 
     -   Desastre d’Annual
 
+        -   Expedient Picasso
+
     -   La Dictadura de Primo de Rivera
         -   1ª etapa: Directori militar 1923-1925
             -   Decreta estat de guerra
-            -   
+            -   Cra directori militar
+            -   Suspen la Constitució
+            -   Dissolt le s Corts
+            -   Cessa autoritats civils
+            -   prohibició
+                -   partits polític
+                -   sindicats
+            -   militarització societat
+            -   persecució liders sindicals
+            -   aprovació censura
+            -   fort component unitarista
+            -   Supressió Mancomunitats
+            -   1925 Desembarcament d'Alhucemas
+                -   primer desembarcament amfibi
+                -   1926 victoria contra Abd-el-Krim
         -   2ª etapa: Directori civil 1926-1930
+            -   Restableix consell ministres
+            -   Creació assamblea Nacional constitutiva
+                -   legitimitat democratica a la dictadura
         -   3ª etapa: Dictablanda 1930-1931
