@@ -460,6 +460,17 @@
 
     -   Mancomunitat
 
+        -   A Catalunya calia
+            -   Reforma d'infraestructures
+            -   Reforma educativa
+            -   Fomentar
+                -   cultura
+                -   llengua
+        -   1907 es crea
+            -   Institut d'Estudis Catalans
+            -   Biblioteca de Catalunya
+        -   1912
+
     -   Efectes de la 1ª Guerra Mundial
 
     -   La crisis de 1917
