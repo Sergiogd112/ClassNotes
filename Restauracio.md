@@ -469,12 +469,24 @@
         -   1907 es crea
             -   Institut d'Estudis Catalans
             -   Biblioteca de Catalunya
-        -   1912
+        -   1912 Canalejas aprova progecte mancmunitats
+        -   Funcionament
+            -   Recursos gestionats per la diputació de Barcelona
 
     -   Efectes de la 1ª Guerra Mundial
 
-    -   La crisis de 1917
+        -   Inici 1ª Guerra mundial
+            -   Divisió paper
+                -   Aliadofils
+                -   Germanofils
+            -   Dato declaraa Espanya neutral
 
+    -   La crisis de 1917
+        -   Protestes militars
+            -   Africanistes tenen més facilitats per pujar
+                -   Peninsulars reclamen igualtat
+            -   Aparició Juntes de Defensa
+                -   "Sindicats" de militars
     -   Crisi dels partits dinàstics
 
     -   Trienni Bolxevic
@@ -483,5 +495,7 @@
 
     -   La Dictadura de Primo de Rivera
         -   1ª etapa: Directori militar 1923-1925
+            -   Decreta estat de guerra
+            -   
         -   2ª etapa: Directori civil 1926-1930
         -   3ª etapa: Dictablanda 1930-1931
