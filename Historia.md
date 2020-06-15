@@ -266,6 +266,7 @@
                 -   Ocupació Puerto Rico per EEUU
 
 -   ### Segona etapa(1902-1931)
+
     -   **Crisi de la Restauració**
     -   Inici del Regeneracionisme (1898-1902)
         -   1899 Mª Cristina dona suport a Silvela
@@ -312,32 +313,120 @@
     -   Trienni Bolxevic
     -   Desastre d’Annual
     -   La Dictadura de Primo de Rivera
+
         -   1ª etapa: Directori militar 1923-1925
         -   2ª etapa: Directori civil 1926-1930
         -   3ª etapa: Dictablanda 1930-1931
 
-## El catalanisme polític(1833-1931)
+        ## El catalanisme polític(1833-1931)
 
--   Inicis del catalanisme
-    -   1833-1868
-    -   Oda a la Patria
--   El catalanisme polític
-    -   Ideat per Valentí Almirall
-    -   Partit Republicà Federal
-    -   I i II Congrés Catalanista
-    -   Memorial de Greuges
-    -   Carta a la reina regent
--   L’emergència del catalanisme conservador
-    -   Les Bases de Manresa
-    -   La Unió Catalanista
-    -   La Candidatura dels 4 presidents
--   Cons cat cons, emergència cat progre
-    -   La Lliga Regionalista
-    -   Els republicans catalans
-    -   Solidaritat Catalana
-    -   Discurs progressista vs. conservador
-    -   La Mancomunitat
-    -   Els primers projectes d’autonomia
+        -   Inicis del catalanisme
+            -   1833-1868
+            -   Oda a la Patria=> Renaixença
+                -   1859 retorn del Jocs Florals
+            -   Les Bullangues
+                -   procés revolucionari
+                -   aturar carlins
+                -   contex primera guerra carlina
+                -   cracter espontani
+                -   1r esclat 22 jul 1835
+                    -   Carlins habien executat a 5 milicians
+                    -   noticies arriben a Barcelona
+                    -   maten al general Bassa
+        -   El catalanisme polític
+
+            -   1879 Valentí Almirall publica articles exposant ideologia
+            -   1880 Primer Congrés Catalanista
+            -   1881 Valentí Almirall abandona el PRDF
+            -   1882 Creació Centre Català
+            -   1883 2n Congres Catalanista
+                -   Catalans han d'afiliarse a partits catalanistes
+                -   Creació dde partits polítics només d'ambit català
+                -   Desobeir partits centralistes
+                -   Defensa proteccionisme
+            -   1883 PRDF redacta Projecte de constitució per l'Estat Català
+            -   1885 amenaça signatura conveni comercial Espanya-Anglaterra + intents d'unificació dret civil català
+                -   Redacció del Memorial de Greuges
+                    -   primer manifest del catalanisme polític
+                    -   destaca
+                        -   referencia al Decret de Nova Planta
+                        -   Denuncia el centralisme
+                        -   defensa del català com a llengua oficial
+                        -   amenaça creació Codi Civil q anularia el Codi Civil català
+                        -   defensa proteccionisme
+            -   1886 Valenti Almirall publica "lo Catalanisme"
+                -   Defensa catalans tenen trets particulars
+                -   motor d'Espanya
+            -   1887 eleccions Centre Català guanya Almirall
+                -   Ferran Alsina
+                    -   marxa
+                    -   crea la Lliga de Catalunya
+            -   1888 Carta a la reina regent
+                -   Recuperar les Corts
+                -   excercit format per voluntaris
+                -   autonomia politica de Catalunya
+                -   Carrecs publics ocupats per catalans
+                -   defensa dret civil català
+                -   oficialitat llengua catalana
+            -   1889 s'aprova codi civil unitari
+
+        -   L’emergència del catalanisme conservador
+            -   1889 creació d'unió catalainsta
+                -   Lliga de Catalunya
+                -   associacions catalanistes
+                -   Tres organs
+                    -   Consel de Representants
+                    -   assamblea General de Delegats
+                    -   Junta Permanent
+            -   Les Bases de Manresa
+                -   1892
+                -   català com a única llengua oficial
+                -   ordre public dependent regió
+                -   competencies en
+                    -   financies
+                    -   educació
+                    -   iniciativa legislativa
+                -   competencies estat
+                    -   representació al extranger
+                    -   resolució conflictes interregionals
+                -   només catalans tenen acces a carrecs públics
+                -   Tribunal Superior de Catalunya
+                -   servei militar voluntari
+                -   caracter arcaïtzant
+                -   Corts escollides per sufragi corporatiu
+            -   Vigatanisme
+                -   1872
+                -   catalanisme d'arrel cristiana
+            -   La Candidatura dels 4 presidents
+                -   eleccions 1901
+                -   Partits
+                    -   Unió Regionalista
+                    -   Centre Nacional Català
+                -   diputats
+                    -   Albert Rusinyol
+                    -   Bartomeu Robert
+                    -   Lluis Domènech i Montaner
+                    -   Sebastià Torres
+                -   Fusió definitiva partits => Lliga Regionalista
+        -   Cons cat cons, emergència cat progre
+            -   La Lliga Regionalista
+                -   primer gran partit Catalanista
+                -   burgés
+                -   Pretenia ser interclassista
+                -   Objectius
+                    -   propugnar desenvolupament econòmic
+                    -   modernització Catalunya
+                -   Acció basada en:
+                    -   critica
+                        -   centralisme
+                        -   caciquisme
+                    -   denunciar marginació classes dominants catalanes
+                    -   pressió per reformar Espanya
+            -   Els republicans catalans
+            -   Solidaritat Catalana
+            -   Discurs progressista vs. conservador
+            -   La Mancomunitat
+            -   Els primers projectes d’autonomia
 
 ## La Segona República (1931-1936)
 
