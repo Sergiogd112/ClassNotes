@@ -1,9 +1,9 @@
 # La Restauració 1875-1931
 
--   ## Primera etapa:
+-   ### Primera etapa:
 
     -   1875-1898
-    -   ### Regat Alfons
+    -   #### Regat Alfons
         -   1875-1885
         -   Va respectar
             -   les Corts
@@ -13,7 +13,7 @@
         -   1884 visita un hospital
             -   contrau tuberculosis
             -   mor
-    -   ### Constitució 1876
+    -   #### Constitució 1876
         -   Sobirania compartida
         -   No estableix sufragi
             -   1878 llei=> sufragi censatari
@@ -24,12 +24,12 @@
         -   drets civils
         -   estat centralitzat
         -   no es reconeix la divisió de poders
-    -   ### Sistema canovista o del torn partit
+    -   #### Sistema canovista o del torn partit
 
         -   Partits
 
             -   dins del sistema:
-                -   #### Liberal-conservador
+                -   ##### Liberal-conservador
                     -   Liderat per:
                         -   Cánovas
                         -   Silvella
@@ -41,7 +41,7 @@
                         -   Grans propietaris
                         -   Alta burgesia
                         -   Classes altes
-                -   #### Liberal-fusionista
+                -   ##### Liberal-fusionista
                     -   Liderats per:
                         -   Sagasta
                         -   Montero Rios
@@ -100,14 +100,14 @@
                     -   Representen:
                         -   Classes obrera
 
-    -   ### Tupinada
+    -   #### Tupinada
         -   Per mantenir el [Sistema del torn partit](#sistema-canovista-o-del-torn-partit)
         -   Frau electoral
             -   Cacics
             -   Vot dels morts
-    -   ### Primera revolució industrial
+    -   #### Primera revolució industrial
 
-        -   #### En q consisteix
+        -   ##### En q consisteix
 
             -   Transformacions econòmiques:
                 -   Subsistencia => Capitalista
@@ -118,7 +118,7 @@
             -   Transformacions polítiques:
                 -   Règim absolutista => Règim Liberal
 
-        -   #### Elements q van afavorir o provocar
+        -   ##### Elements q van afavorir o provocar
 
             -   \++ producció agraria
             -   Mà d'obra
@@ -128,7 +128,7 @@
             -   Mentalitat empresarial
             -   Marc polític favorable
 
-        -   #### Agricultura
+        -   ##### Agricultura
             -   Avençós =>
                 -   Descens agricultors
                     -   \++ obrers
@@ -157,7 +157,7 @@
                         -   conflicte rabasaires
                             -   1896 Contractes arrendament i parceria
                 -   No s'acabara de portar a terme fins als 1960
-        -   #### La industria téxtil
+        -   ##### La industria téxtil
 
             -   Segle XVII
                 -   industria manufacturera d'indianes
@@ -186,7 +186,7 @@
                     -   \- cabal = - producció
                     -   \++ cost de transport
 
-        -   #### Industria siderurgica
+        -   ##### Industria siderurgica
 
             -   1r periode: Andalusia
                 -   1826 => altos hornos heredeia
@@ -203,7 +203,7 @@
                 -   1882 SA Altos Hornos i Fabrica de Fe Acero Bilbao
                 -   1885 Instal·la el primer convertidor de Bessemes
 
-        -   #### El ferrocarril
+        -   ##### El ferrocarril
             -   Iniciat a 1/2ns Segle XIX
             -   1848 Barcelona - Mataró
             -   Primera etapa: expansió
@@ -215,10 +215,10 @@
                     -   MZA
                     -   Companya del Nord
 
-    -   ### Pacte del Pardo
+    -   #### Pacte del Pardo
         -   Signat per Sagasta i Canovas
         -   [Regencia Maria Cristina](#regencia-de-maria-cristina)
-    -   ### Regència de Maria Cristina
+    -   #### Regència de Maria Cristina
         -   1885-1902
         -   Govern Liberal
         -   Sagasta incita reformas:
@@ -230,19 +230,19 @@
         -   1886 S'elimina el sistema del Patronat
         -   1889 Nou codi civil
         -   1890 sufragi universal masculi >25
-    -   ### Sorgiment nacionalismes
+    -   #### Sorgiment nacionalismes
         -   català
         -   Basc
         -   Galleg
-    -   ### Segona revolució industrial
+    -   #### Segona revolució industrial
         -   1870 i 1914
         -   fabricació de peces intercanviables
         -   la invenció del procés Bessemer per produir acer
         -   sistema Solvay de producció del carbonat de sodi
-    -   ### Moviments obrers
+    -   #### Moviments obrers
         -   internacionalisme
         -   anarquisme
-    -   ### Desastre de Cuba
+    -   #### Desastre de Cuba
 
         -   1873 1ª Republica
             -   Cuba intenta aconseguir autogovern
@@ -262,7 +262,7 @@
                 -   Rendició Santiago Cuba
                 -   Ocupació Puerto Rico per EEUU
 
--   ## Segona etapa(1902-1931)
+-   ### Segona etapa(1902-1931)
 
     -   **Crisi de la Restauració**
     -   Inici del Regeneracionisme (1898-1902)
@@ -295,7 +295,7 @@
                 -   1904 Maura escolleix com a Cap de l'estat major a Polavieja en contra d'Alfons XIII
             -   Govern Llarg 1907-09
                 -   sufragi obligatori
-                -   ### Aprova llei electoral 1907
+                -   #### Aprova llei electoral 1907
                     -   afavoreix
                         -   oligarquies
                         -   governs dinastics
@@ -355,7 +355,7 @@
                 -   Sectors més intransigents de la Lliga
             -   1910 Nacionalistes Republicans + Centre Nacionalista Republicà
                 -   Unio Federal Nacionalista Republicana
-        -   ### Els moviments obrers
+        -   #### Els moviments obrers
 
             -   Socialistes
 
@@ -418,7 +418,7 @@
             -   Emancipació classe treballadora
             -   Favorable Revolució y lluita obrera
 
-    -   ### Setmana Tràgica
+    -   ##### Setmana Tràgica
 
         -   Conferencia Algecires
             -   Espanya rep part Nord Marroc
@@ -496,6 +496,7 @@
         -   Expedient Picasso
 
     -   La Dictadura de Primo de Rivera
+
         -   1ª etapa: Directori militar 1923-1925
             -   Decreta estat de guerra
             -   Cra directori militar
@@ -514,7 +515,29 @@
                 -   primer desembarcament amfibi
                 -   1926 victoria contra Abd-el-Krim
         -   2ª etapa: Directori civil 1926-1930
+
             -   Restableix consell ministres
             -   Creació assamblea Nacional constitutiva
                 -   legitimitat democratica a la dictadura
+            -   Economia
+                -   Feliços anys 20
+                -   Intent augmentar exportacion i reduir importacions
+                -   Inversions en modernitzar la industria
+                -   proces urbanització
+                -   creació de monopolis
+                    -   CAMPSA
+                    -   CTNE(Telefonica)
+                -   Foment obra publica
+
         -   3ª etapa: Dictablanda 1930-1931
+            -   Primo de Rivera és substituit pel General Damasco Bereneguer
+            -   transició entre dictadura i democràcia
+            -   alliberar al rei de qualsevol vinculació amb la dictadura
+            -   creació forces polítiques
+            -   Pacte de Sant Sebastià
+                -   Estat republicà
+                -   Estat autonomic
+                -   Establir i conslidar llibertat
+                    -   política
+                    -   religiosa
+            -   14/2/1930 Berenguer dimiteix
